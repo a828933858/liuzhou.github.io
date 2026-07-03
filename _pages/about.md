@@ -86,7 +86,7 @@ redirect_from:
 
 <!-- [Mar. 2025] Three papers are accepted by ICME 2025. Congratulations to Tao Feng, Xin Zhang, and Yang Xiang! -->
 
-- [Mar. 2025] One paper is accepted by IEEE TPAMI. Congratulations to Hongwei!
+- [Mar. 2025] One paper is accepted by TPAMI. Congratulations to Hongwei!
 
 <span class='anchor' id='-pub'></span>
 
