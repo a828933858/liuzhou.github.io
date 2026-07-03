@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Home"
+    url: "/#about-me"
+
+  # - title: "Recent News"
+  #   url: "/#-xl"
+
+  - title: "Publications"
+    url: "/#-pub"
+
+  # - title: "Team"
+  #   url: "/#-lwzl"
+
+  - title: "Honors & Awards"
+    url: "/#-hy"
+
+  - title: "Membership"
+    url: "/#-membership"
+
+  - title: "Invited Talks"
+    url: "/#-ryjx"
+
+  - title: "Academic Services"
+    url: "/#-review"
+
+  - title: "Teaching"
+    url: "/#-teaching"

@@ -1,0 +1,8 @@
+_site/
+_data/
+_layouts/
+_pages/
+_sass/
+.github/
+push.sh
+.DS_Store
