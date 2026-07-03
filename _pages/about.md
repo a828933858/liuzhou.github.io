@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group. His team focuses on <strong>human-centered multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
+&emsp;&emsp; Liu Zhou is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Intelligent Flight and Safety Control (IFSC) Group. His team focuses on <strong>human-centered multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 40 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
@@ -30,7 +30,7 @@ redirect_from:
 
 <!-- Fei Ma is a Researcher, Principal Investigator, and Master's Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory, where he leads the Media Intelligence team. He received his Ph.D. degree in Information and Communication Engineering from Tsinghua University and his B.S. degree in Communication Engineering from the University of Electronic Science and Technology of China (UESTC). His research lies at the intersection of <strong>generative artificial intelligence</strong> and <strong>affective computing</strong>. He has published over 40 papers in top journals such as TPAMI (IF: 18.6), Information Fusion (IF: 15.5), TAFFC (IF: 9.8), TMC (IF: 9.2), TIE (IF: 7.2), and CCF Tier-A conferences (NeurIPS, ICLR, ACL, AAAI, IJCAI, ACM MM). He has filed or been granted over 40 Chinese invention patents. He received the Outstanding Scientific Research Achievement Innovation Award at the China Hi-Tech Fair, and his self-developed AIGC short film "Chang'e Flying to the Moon" was featured on CCTV Video, CCTV.com, and CNR.com, gaining widespread attention. -->
 
-<!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <strong>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</strong>, and <strong>Affective Computing</strong>. -->
+<!-- &emsp;&emsp; Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <strong>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</strong>, and <strong>Affective Computing</strong>. -->
 
 <!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <color: rgb(255, 0, 0)>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</color: rgb(255, 0, 0)>, and <strong>Affective Computing</strong>. -->
 
@@ -270,56 +270,11 @@ redirect_from:
 
 &emsp;&emsp;International Journal of Computer Vision
 
-&emsp;&emsp;IEEE Transactions on Multimedia
-
-&emsp;&emsp;IEEE Transactions on Affective Computing
-
-&emsp;&emsp;IEEE Internet of Things Journal
-
-&emsp;&emsp;IEEE Transactions on Human-Machine Systems
-
-&emsp;&emsp;IEEE Robotics and Automation Letters
-
-&emsp;&emsp;IEEE Signal Processing Letters
-
-&emsp;&emsp;Pattern Recognition
-
-&emsp;&emsp;Neurocomputing
-
-&emsp;&emsp;Computers in Industry
-
-&emsp;&emsp;Ocean Engineering
-
-&emsp;&emsp;Signal Processing: Image Communication
-
-&emsp;&emsp;Software: Practice and Experience
-
-&emsp;&emsp;Behaviour & Information Technology
-
-&emsp;&emsp;电子学报
 
 
 - **Conference Reviewer:**
 
 &emsp;&emsp;Conference on Neural Information Processing Systems（NeurIPS） (2025, 2023, 2022)
-
-&emsp;&emsp;International Conference on Machine Learning（ICML） (2022)
-
-<!-- ICML 2022 -->
-
-&emsp;&emsp;International Conference on Learning Representations（ICLR）（2025，2024，2022）
-
-&emsp;&emsp;Conference on Computer Vision and Pattern Recognition（CVPR） (2026，2025)
-
-&emsp;&emsp;European Conference on Computer Vision（ECCV） (2026)
-
-&emsp;&emsp;AAAI Conference on Artificial Intelligence（AAAI） (2026)
-
-&emsp;&emsp;ACM International Conference on Multimedia（ACM MM） (2025，2024)
-
-&emsp;&emsp;IEEE International Conference on Multimedia and Expo（ICME） (2023，2022，2021)
-
-&emsp;&emsp;Winter Conference on Applications of Computer Vision（WACV） (2026)
 
 &emsp;&emsp;International Conference on Image Processing（ICIP） (2021)
 
@@ -327,21 +282,6 @@ redirect_from:
 
 &emsp;&emsp;ICLR（2025-2022）
 
-&emsp;&emsp;CVPR (2026-2025)
-
-&emsp;&emsp;AAAI 2026
-
-&emsp;&emsp;ACM MM (2025-2023)
-
-&emsp;&emsp;ICME (2023-2019)
-
-&emsp;&emsp;ICASSP 2023
-
-&emsp;&emsp;WACV 2026
-
-&emsp;&emsp;ICIP 2021
-
-&emsp;&emsp;ICONIP 2019 -->
 
 
 
