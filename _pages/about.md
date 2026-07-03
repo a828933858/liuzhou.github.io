@@ -313,6 +313,8 @@ redirect_from:
 
 &emsp;&emsp;European Conference on Computer Vision（ECCV） (2026)
 
+&emsp;&emsp;ACL Rolling Review (ARR) (2026)
+
 &emsp;&emsp;AAAI Conference on Artificial Intelligence（AAAI） (2026)
 
 &emsp;&emsp;ACM International Conference on Multimedia（ACM MM） (2025，2024)
