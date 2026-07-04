@@ -137,7 +137,7 @@ redirect_from:
 
 - [27] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao, L Shen. <strong>SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection</strong>. ICML 2026. 
 
-- [26] H Ren, <strong>F Ma</strong>, X Lin, Y Fang, H Huang, Y Zhou, Y Huang, H Fu, Z Yang, Y Jiang, X Wu, B Cheng. <strong>Frequency-aware event cloud network</strong>. ICML 2026. 
+- [26] H Ren, <strong>F Ma</strong>, X Lin, Y Fang, H Huang, Y Zhou, Y Huang, H Fu, Z Yang, Y Jiang, X Wu, B Cheng. <strong>Scalable Event Cloud Network for Event-based Classification</strong>. ICML 2026. 
 
 - [25] X Li, D Yin, Y Xie, G Li, Z Cheng, <strong>F Ma</strong>. <strong>ViSA-Gait: Leveraging Vision Foundation Models for Semantic Anchored Gait Recognition</strong>. IJCAI 2026. 
 
