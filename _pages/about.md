@@ -321,7 +321,7 @@ redirect_from:
 
 &emsp;&emsp;IEEE International Conference on Multimedia and Expo（ICME） (2023，2022，2021)
 
-&emsp;&emsp;ACM International Conference on Multimedia Retrieval（ACM ICMR） (2026)
+&emsp;&emsp;ACM International Conference on Multimedia Retrieval（ICMR） (2026)
 
 &emsp;&emsp;Winter Conference on Applications of Computer Vision（WACV） (2026)
 
